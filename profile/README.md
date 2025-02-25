@@ -6,7 +6,11 @@
 - **Free & Open Source Software (FOSS)**: We believe in open, transparent, and community-driven development.  
 - **Privacy-Respecting**: Your data is yours. No tracking, no data mining.  
 - **Secure by Design**: Robust, secure solutions to protect users from threats.  
-- **Ad-Free Experience**: A clean, distraction-free internet, without intrusive ads.  
+- **Ad-Free Experience**: A clean, distraction-free internet, without intrusive ads.
+
+## 💻 Seperated Projects
+Projects by us that are not on the GitHub profile:
+- [MrServer](https://github.com/mrserver-org)
 
 ## 🚧 Work in Progress  
 We are just getting started—stay tuned!  
