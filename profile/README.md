@@ -9,7 +9,7 @@
 - **Ad-Free Experience**: A clean, distraction-free internet, without intrusive ads.
 
 ## 💻 Seperated Projects
-Projects by us that are not on the GitHub profile:
+Projects by us that are not on **this** GitHub profile:
 - [MrServer](https://github.com/mrserver-org)
 
 ## 🚧 Work in Progress  
